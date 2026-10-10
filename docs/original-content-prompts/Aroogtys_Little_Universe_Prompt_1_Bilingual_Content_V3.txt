@@ -1,0 +1,971 @@
+PROMPT 1 — AROOGTY’S LITTLE UNIVERSE
+BILINGUAL CONTENT + CREATIVE COPY PASS
+REAL CHAT / REAL DATA FIRST • AI CREATIVITY SECOND
+
+You are editing an EXISTING website:
+
+“Aroogty’s Little Universe”
+
+The current website already has a visual identity, composition, sections, navigation, interactions, decorative typography, and features that I like.
+
+This pass is the first major CONTENT pass.
+
+Your mission is to make the website’s writing feel extraordinary, emotionally authentic, beautifully organized, and unmistakably connected to the real relationship behind it.
+
+The website should feel like:
+
+“someone took our real story, remembered the tiny details, and turned them into a beautiful little universe.”
+
+NOT:
+“an AI made a generic romantic website.”
+
+==================================================
+1. THE TWO PRIMARY SOURCES
+==================================================
+
+You will have access to:
+
+A) The COMPLETE WhatsApp chat between me and Arooga.
+B) A REAL RELATIONSHIP DATA / FACTS file that I provide with this prompt or immediately alongside it.
+
+These are the PRIMARY SOURCES for personal content.
+
+READ THEM CAREFULLY.
+
+The WhatsApp chat is important because it contains:
+- the actual way we speak
+- actual nicknames
+- actual jokes
+- actual reactions
+- actual affectionate language
+- actual emotional moments
+- actual dates
+- actual memories
+- actual little details
+- actual progression of the relationship
+- actual things she says
+- actual things I say
+- details that may not appear in the summary/data file
+
+The relationship data file is important because it organizes the confirmed facts and important details.
+
+USE BOTH.
+
+Do not rely only on this prompt for personal details.
+
+The chat and the supplied real-data file are the source of truth.
+
+==================================================
+2. DO NOT LOSE ANY REAL DATA
+==================================================
+
+This is extremely important.
+
+The supplied relationship data is the emotional backbone of this website.
+
+DO NOT casually omit meaningful details from it.
+
+Do not discard a detail simply because you do not immediately know where to place it.
+
+Instead:
+
+READ ALL OF THE DATA.
+
+UNDERSTAND IT.
+
+Then intelligently distribute the best details across the EXISTING sections according to:
+- what fits each section
+- available visual space
+- emotional purpose
+- chronology
+- tone
+- variety
+
+Not every fact needs to appear word-for-word.
+
+But every meaningful category of information should remain available to be used.
+
+Do not reduce a rich real story into a handful of generic facts.
+
+The goal is:
+
+REAL STORY → RICH CONTENT → SMART DISTRIBUTION.
+
+==================================================
+3. THE CHAT IS NOT A TEXT BANK TO COPY-PASTE
+==================================================
+
+Do not dump WhatsApp messages into the website.
+
+Instead:
+
+READ → UNDERSTAND → SELECT → REWRITE BEAUTIFULLY.
+
+A real sentence from the chat may inspire:
+- a heading
+- a caption
+- an inside-joke card
+- a timeline note
+- a memory description
+- a tiny microcopy line
+- a love-letter idea
+- a playful UI message
+
+The website should feel natural, not like a WhatsApp export.
+
+==================================================
+4. AI CREATIVITY IS ENCOURAGED
+==================================================
+
+I WANT you to write creatively.
+
+Do not be afraid to add beautiful text when a section needs it.
+
+You may create:
+- romantic lines
+- poetic lines
+- emotional transitions
+- elegant captions
+- tiny affectionate notes
+- short reflections
+- beautiful English copy
+- Egyptian Arabic romantic writing
+- original poetic writing
+- subtle interface phrases
+
+However:
+
+When the AI creates PERSONAL FACTS, they must come from the real chat/data.
+
+When the AI creates NON-FACTUAL ROMANTIC LANGUAGE, it may be fully creative.
+
+This distinction is critical.
+
+Example:
+
+GOOD:
+“من أول رسالة عادية… لحد ما بقيتي من أهم تفاصيل يومي.”
+
+This is creative writing based on the real relationship arc.
+
+GOOD:
+“بعض التفاصيل الصغيرة مايعرفش قيمتها غير اتنين عاشوها.”
+
+This is original romantic language.
+
+BAD:
+“فاكر يوم خرجنا فيه سوا يوم 27 مايو؟”
+
+if the supplied sources do not confirm that.
+
+NEVER invent a real event and present it as history.
+
+==================================================
+5. POETRY / QUOTATIONS
+==================================================
+
+When a section would genuinely benefit from poetry, elegant literature, or a romantic quotation, you MAY use outside literary sources.
+
+But do this responsibly.
+
+Preferred order:
+
+1. Original writing created specifically for this website.
+2. Public-domain poetry / classical poetry when appropriate.
+3. Properly verified short quotations from legitimate literary sources.
+
+NEVER:
+- invent a quotation
+- attribute an AI-written sentence to a famous poet
+- make up a poet/source
+- paste long copyrighted poetry
+- fill the website with copied quotes
+
+If you use a real literary quotation, preserve the attribution accurately and keep the excerpt short enough for legitimate use.
+
+The romantic writing should still feel like it belongs to THIS website.
+
+Do not make the website feel like a quote collection.
+
+==================================================
+6. KEEP THE EXISTING WEBSITE SHAPE
+==================================================
+
+DO NOT rebuild the site.
+
+DO NOT replace the current visual identity.
+
+DO NOT redesign the whole website.
+
+DO NOT delete existing sections.
+
+DO NOT delete existing interactions.
+
+DO NOT remove features simply because a section needs better copy.
+
+DO NOT reorganize the entire architecture.
+
+DO NOT change the existing section order unless the current implementation absolutely requires a minimal internal adjustment for the language switch.
+
+The current visual design is important.
+
+Preserve:
+- overall composition
+- cards
+- existing visual motifs
+- decorative headings
+- navigation concept
+- interactions
+- animations that already work
+- existing good English copy
+- existing memorable visual elements
+
+The mission is to improve the CONTENT and create a high-quality bilingual experience without destroying the existing design.
+
+==================================================
+7. IMPORTANT: ENGLISH DOES NOT HAVE TO DISAPPEAR
+==================================================
+
+I do NOT want “Arabic mode” to mean:
+
+“translate literally every single word into Arabic.”
+
+That would actually make some parts of the site worse.
+
+There are existing English elements that look beautiful and belong naturally in the visual identity.
+
+KEEP them in English when English genuinely looks/feels better.
+
+Examples may include:
+- elegant dates
+- certain decorative headings
+- short visual labels
+- tiny poetic interface phrases
+- section names
+- stylized English words
+- signature phrases
+- design-oriented microcopy
+
+The decision should be based on what looks and feels best.
+
+For example:
+
+“19 May 2026”
+may look beautiful as-is.
+
+“Aroogty’s Little Universe”
+may remain in English.
+
+“Still counting.”
+may remain in English if it works better visually.
+
+A decorative English title that already looks perfect should NOT be translated just because Arabic mode exists.
+
+==================================================
+8. CREATE A REAL LANGUAGE TOGGLE
+==================================================
+
+Add a beautiful, highly polished language switcher for:
+
+العربية
+/
+English
+
+This is an actual website-language experience, NOT a simple browser-style translation.
+
+The toggle should feel like it belongs to the design.
+
+Make it:
+- creative
+- elegant
+- small
+- premium
+- intuitive
+- satisfying to use
+- visually consistent with the current site
+
+Give it a subtle but beautiful animation.
+
+Examples of possible visual direction:
+- a tiny sliding pill
+- a delicate flip
+- a paper-tab movement
+- a soft ink transition
+- a tiny bilingual card
+- a subtle underline that moves between languages
+- a small moon/star/heart-style micro-animation if it fits the existing aesthetic
+
+These are directions only.
+
+DESIGN THE BEST VERSION BASED ON THE CURRENT WEBSITE.
+
+Do not add a generic bulky language dropdown.
+
+The language switch should feel like a little part of the universe itself.
+
+==================================================
+9. LANGUAGE SWITCH MUST CHANGE THE WHOLE EXPERIENCE
+==================================================
+
+When switching to Arabic:
+
+The website should genuinely read as an Arabic version of itself.
+
+Translate/adapt all relevant visible content:
+- navigation
+- buttons
+- section titles where appropriate
+- captions
+- labels
+- instructions
+- cards
+- modals
+- interactive messages
+- birthday copy
+- timeline text
+- memory text
+- letters
+- small interface messages
+
+BUT:
+
+DO NOT force translation of English design elements that are intentionally better in English.
+
+Some text can remain English when it is decorative or visually stronger.
+
+When switching back to English:
+return to the polished English version.
+
+The two modes should feel like:
+TWO CAREFULLY WRITTEN VERSIONS OF THE SAME WEBSITE.
+
+Not:
+English text + machine-translated Arabic.
+
+==================================================
+10. ARABIC MODE NEEDS ITS OWN TYPOGRAPHIC TREATMENT
+==================================================
+
+This is a major requirement.
+
+Do not simply change the words while keeping English typography rules.
+
+Arabic mode should have:
+- true RTL
+- appropriate Arabic font
+- excellent line-height
+- correct text alignment
+- good wrapping
+- comfortable spacing
+- clear hierarchy
+- beautiful Arabic headings
+- readable Arabic body text
+- correctly positioned icons/punctuation
+- no awkward mixed-direction rendering
+
+The Arabic styling may be visually adjusted independently from English where necessary.
+
+For example:
+- Arabic heading sizes may need different scaling.
+- Arabic line-height may need to be larger.
+- Arabic ornamentation may need a different treatment.
+- spacing around Arabic text may need refinement.
+
+This is allowed.
+
+It is NOT a redesign.
+
+It is proper support for a second visual language.
+
+==================================================
+11. ARABIC DECORATION MUST BE BEAUTIFUL AND READABLE
+==================================================
+
+I specifically want the Arabic version to look beautiful.
+
+Use tasteful Arabic typography and decoration.
+
+DO NOT:
+- use random decorative Unicode that damages readability
+- use excessive symbols
+- distort letters
+- make text look like a strange font generator
+- over-stylize words
+- use unreadable calligraphy-like treatment for normal UI text
+
+Think:
+elegant,
+romantic,
+clean,
+premium,
+readable.
+
+English decorative text should remain equally polished.
+
+Each language should look intentionally designed.
+
+==================================================
+12. THINK LIKE THE PERSON WHO CAN SEE THE WHOLE WEBSITE
+==================================================
+
+This is important.
+
+YOU can see the entire existing website and its actual sections.
+
+Therefore:
+
+Do not expect me to tell you exactly what sentence belongs in every little box.
+
+Look at the actual space.
+
+Look at what each section is trying to do.
+
+Then decide what content belongs there.
+
+You have creative freedom to choose:
+- what detail goes into which section
+- how long the text should be
+- what should be a title
+- what should be a subtitle
+- what should be a caption
+- what should be an inside joke
+- what should be a romantic line
+- what should be a memory note
+- what should be a tiny interaction message
+
+The current website design is your map.
+
+The real chat/data is your source material.
+
+Use both intelligently.
+
+==================================================
+13. IF A SECTION HAS EXTRA SPACE, USE IT WELL
+==================================================
+
+You are explicitly allowed to add beautiful copy where the existing design naturally has room.
+
+Do NOT leave obvious empty areas filled with weak generic text just because the original prompt did not specify a sentence.
+
+If a large section can hold:
+- a short paragraph
+- a romantic reflection
+- a small personal note
+- a poetic line
+- a secondary caption
+
+then consider using one.
+
+BUT:
+
+Do not turn the website into a wall of text.
+
+Match the content to the space.
+
+The website should breathe.
+
+==================================================
+14. SOME SECTIONS SHOULD BE FACTUAL; SOME CAN BE PURELY BEAUTIFUL
+==================================================
+
+This distinction should guide your choices.
+
+For timeline / memory / history content:
+PRIORITIZE REAL FACTS.
+
+For decorative or emotional areas:
+CREATIVE WRITING IS WELCOME.
+
+For example:
+
+A memory card:
+real memory first.
+
+A poetic divider between sections:
+creative writing is fine.
+
+A birthday wish:
+real relationship context + creative writing.
+
+A section heading:
+creative wording is fine.
+
+A specific date:
+must be accurate.
+
+==================================================
+15. RELATIONSHIP FOUNDATION
+==================================================
+
+The confirmed beginning is:
+
+19 May 2026
+4:35 PM
+Africa/Cairo
+
+The first contact was connected to a university assignment / subject.
+
+The relationship did NOT begin as instant romance.
+
+It developed gradually:
+
+assignment
+→ talking
+→ helping each other
+→ friendship
+→ trust
+→ sharing more of life
+→ emotional comfort
+→ becoming very close
+→ romantic feelings
+→ love
+
+This gradual development should be reflected in the writing.
+
+Do not rewrite the story as “love at first sight.”
+
+==================================================
+16. OUR BEGINNING / TIMELINE
+==================================================
+
+Keep the current timeline component.
+
+Use the real chat/data to determine what moments actually deserve to appear.
+
+If the current site contains an existing milestone:
+- verify it against the real sources where possible
+- keep it if supported
+- rewrite it beautifully
+- generalize it if the factual basis is uncertain
+- never invent a replacement event
+
+Do not delete the timeline because some existing text needs correction.
+
+The timeline should feel like a real story rather than a list of random romantic sentences.
+
+==================================================
+17. LITTLE THINGS
+==================================================
+
+Keep the existing Little Things feature.
+
+Use real details from the chat/data.
+
+Look especially for:
+- recurring phrases
+- repeated reactions
+- nicknames
+- small preferences
+- tiny habits
+- playful language
+- things that instantly remind me of her
+
+Known examples include:
+“بجااااد”
+“ي الله”
+“🤭”
+“أروجتي”
+and other details the full chat may reveal.
+
+Do not stop at these examples.
+
+If the chat contains better details:
+USE THEM.
+
+==================================================
+18. MEMORIES
+==================================================
+
+Keep the existing Memory feature exactly as a feature.
+
+Make the wording around each memory feel personal.
+
+Do not make every memory romantic.
+
+A memory can be:
+funny,
+ordinary,
+sweet,
+awkward,
+quiet,
+cute,
+or deeply emotional.
+
+Use the real story.
+
+Never display fake technical placeholders.
+
+Never invent dates.
+
+Never invent photographs or conversations.
+
+==================================================
+19. BIRTHDAY
+==================================================
+
+Arooga’s birthday:
+
+18 September 2007
+
+Her 19th birthday:
+
+18 September 2026
+
+Keep the current birthday section and its existing interaction.
+
+Improve the wording so the birthday feels personal.
+
+Do not turn the entire site into a birthday-only website.
+
+The birthday section should feel like:
+“I made this little piece of the universe because I wanted this day — and you — to be remembered.”
+
+Use real relationship details plus beautiful writing.
+
+==================================================
+20. LOVE LETTER / FINAL MESSAGE
+==================================================
+
+This is one of the most important writing areas.
+
+Read the real messages carefully before writing it.
+
+Extract the emotional ideas that are genuinely present in the chat.
+
+The letter can include:
+- the ordinary beginning
+- how she gradually became important
+- comfort
+- trust
+- closeness
+- the little things that became meaningful
+- admiration for her character
+- affection
+- love
+- gratitude
+- hope for more together
+- the feeling that “بحبك” can be too small for everything inside
+
+Use the real voice as the foundation.
+
+Then write it beautifully.
+
+The final letter should feel like:
+MY REAL FEELINGS, WRITTEN AT THEIR BEST.
+
+Not:
+an AI love poem with my name added.
+
+==================================================
+21. FUTURE / “FOR LATER”
+==================================================
+
+Keep future-oriented content where the existing site already has it.
+
+Use:
+hope,
+wish,
+dream,
+prayer,
+possibility,
+“for later.”
+
+Do not present playful relationship jokes as official engagement/marriage status.
+
+Keep inside jokes as inside jokes.
+
+==================================================
+22. KEEP THE EXISTING GOOD ENGLISH COPY
+==================================================
+
+Some of the current English content is already attractive.
+
+Do not destroy good writing just because you are adding Arabic.
+
+Use judgment.
+
+A line can remain English because:
+- it is visually beautiful
+- it is already part of the identity
+- it sounds better
+- it is a decorative phrase
+- it works naturally in both language modes
+
+The language system should be intelligent, not dogmatic.
+
+==================================================
+23. THE WRITING SHOULD HAVE VARIETY
+==================================================
+
+Do not make every section:
+deep romantic.
+
+The site should have:
+cute moments,
+funny moments,
+quiet moments,
+nostalgic moments,
+playful moments,
+romantic moments,
+deep moments.
+
+That emotional variety is what will make the relationship feel real.
+
+==================================================
+24. AVOID GENERIC AI ROMANCE
+==================================================
+
+Avoid:
+- “two souls, one destiny”
+- “you are my entire universe” repeated everywhere
+- “forever and always” repeatedly
+- generic soulmate language
+- excessive “destiny”
+- excessive “eternity”
+- generic “you changed my life” statements everywhere
+- corporate-sounding romance
+- fake profound statements
+- unnecessary melodrama
+
+Prefer:
+specificity,
+warmth,
+humor,
+natural Egyptian Arabic,
+quiet affection,
+real details,
+genuine emotion.
+
+==================================================
+25. DO NOT OVERUSE EMOJIS
+==================================================
+
+Emojis can be used because they are genuinely part of the way you communicate.
+
+But use them intentionally.
+
+Especially:
+🤭
+♡
+small hearts
+
+Do not put hearts everywhere.
+
+One recognizable detail is stronger than twenty decorative emojis.
+
+==================================================
+26. BACKGROUND MICRO-POLISH
+==================================================
+
+The existing background is slightly too quiet.
+
+You MAY make a VERY subtle refinement so it feels a little more alive.
+
+Examples:
+- a few extremely faint hearts
+- very gentle ambient movement
+- subtle soft depth
+- rare tiny floating details
+
+But:
+DO NOT redesign the background.
+DO NOT turn it into a heart explosion.
+DO NOT add constant particles.
+DO NOT add glitter everywhere.
+
+The ideal result is:
+“same beautiful background, but slightly more alive.”
+
+If the current background already works well, leave it alone.
+
+==================================================
+27. MUSIC / AUDIO — DO NOT TOUCH IN THIS PASS
+==================================================
+
+Do not redesign or reconfigure the audio/music system in this prompt.
+
+Do not add songs.
+Do not remove songs.
+Do not change audio URLs.
+Do not add autoplay.
+Do not rewrite the player.
+Do not change the personal recording.
+
+The music pass will be done separately.
+
+Keep current audio functionality intact.
+
+==================================================
+28. DO NOT TURN THIS INTO A FULL TECHNICAL REBUILD
+==================================================
+
+Do not:
+- rebuild the codebase
+- replace the visual system
+- redesign navigation
+- redesign every component
+- change all animations
+- restructure the application
+
+ONLY make the technical changes required to support:
+A) the improved content
+B) the bilingual language switch
+C) proper Arabic presentation
+
+Everything else should remain as close as possible to the existing site.
+
+==================================================
+29. LANGUAGE SWITCH IMPLEMENTATION PRINCIPLES
+==================================================
+
+The selected language should persist appropriately so the visitor does not lose it unnecessarily during normal navigation.
+
+The switch should update the interface smoothly.
+
+Do not cause full-page glitches.
+
+Do not make the language change feel like leaving and reloading the entire universe.
+
+Use a subtle transition.
+
+Respect the current site's interaction style.
+
+==================================================
+30. CONTENT SHOULD BE ORGANIZED
+==================================================
+
+Where appropriate, keep bilingual / personal content centralized rather than scattering random strings everywhere.
+
+Maintain a clear content structure so future edits are easy.
+
+Separate:
+- English copy
+- Arabic copy
+- real facts
+- memories
+- timeline
+- little things
+- letters
+- birthday
+- microcopy
+
+Do not create unnecessary duplication.
+
+==================================================
+31. FINAL CREATIVE FREEDOM
+==================================================
+
+You are allowed to make judgment calls.
+
+You are allowed to:
+- rewrite weak wording
+- keep strong wording
+- create new romantic copy
+- choose where real details belong
+- improve captions
+- create elegant Arabic equivalents
+- keep certain English phrases
+- introduce short original poetic lines
+- add meaningful microcopy
+- fill genuinely empty writing opportunities
+
+You are NOT allowed to:
+- invent real events
+- fabricate memories
+- fabricate dates
+- fabricate quotes
+- invent relationship milestones
+- delete sections because you do not know what to say
+- destroy the current visual identity
+
+==================================================
+32. FINAL REVIEW — READ THE SITE AS AROOGA
+==================================================
+
+Before finishing, go through the ENTIRE website from beginning to end in BOTH languages.
+
+Check:
+
+Would Arooga recognize herself here?
+
+Would she recognize our way of talking?
+
+Would she notice that I remembered the tiny things?
+
+Does the story feel like OUR story?
+
+Does the emotional progression feel natural?
+
+Does Arabic feel genuinely written rather than machine translated?
+
+Does English remain elegant?
+
+Are the English decorative elements still beautiful?
+
+Does the Arabic mode feel equally premium?
+
+Is the language toggle creative and polished?
+
+Did you use the real data fully enough?
+
+Did you discover useful details in the actual chat that were not explicitly mentioned in this prompt?
+
+Did you use those details appropriately?
+
+Did you add beautiful AI writing where the site needed it?
+
+Did you accidentally invent anything factual?
+
+Did you turn a playful joke into a fact?
+
+Did you remove a section?
+
+Did you overwrite good existing copy?
+
+Did you overuse romance clichés?
+
+Did you overuse hearts or emojis?
+
+Does every section have its own emotional purpose?
+
+Does anything still look like placeholder/developer text?
+
+Does anything feel obviously AI-generated?
+
+Can any generic sentence be replaced by something more specific and human?
+
+==================================================
+33. FINAL PRINCIPLE
+==================================================
+
+Think of the work like this:
+
+THE CHAT = our real voice.
+
+THE REAL DATA = the factual backbone.
+
+THE EXISTING WEBSITE = the visual map.
+
+YOUR CREATIVITY = the writing and polish that turns all of that into something extraordinary.
+
+Do not choose between authenticity and beauty.
+
+Use BOTH.
+
+I want the final result to feel:
+
+real enough to recognize,
+beautiful enough to keep forever,
+personal enough to make her smile,
+and romantic enough to feel from the heart.
+
+The website should feel like:
+
+“Aroogty ♡
+This is our little universe.”
+
+And the final signature can remain:
+
+Still counting.
+Still remembering.
+Still us.
